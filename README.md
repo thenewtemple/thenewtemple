@@ -27,7 +27,7 @@ The JPS Tanakh is an entirely original translation of the Holy Scriptures into c
 based on the original masoretic (traditional Hebrew) text. The JPS tanakh
 emerged from the collaborative efforts of an interdenominational team of Jewish scholars and
 rabbis working together over a twenty-year period. The translators made use of the entire range of
-biblical interpretation, ancient and modern, Jewish and non-Jewish. !e resulting text is a triumph
+biblical interpretation, ancient and modern, Jewish and non-Jewish. The resulting text is a triumph
 of literary style and biblical scholarship, unsurpassed in accuracy and clarity. 
   
 About the Hebrew Text
@@ -38,13 +38,11 @@ In 1010 his work was revised by Samuel ben Jacob, a scribe in Egypt. Lost for ce
 the manuscript was eventually discovered in the mid-nineteenth century and became known as the Leningrad Codex. 
 JPS has adapted the latest BHS edition of the Leningrad text by correcting errors and providing modern paragraphing.  
   
-hebrew-english
-  
 JPS Hebrew-English Tanakh
   
 The JPS Hebrew-English Tanakh features the oldest-known complete Hebrew version of the Holy
 Scriptures, side by side with JPS’s renowned English translation. Its well-designed format allows
-for ease of reading and features clear type, an engaging and e'cient two-column format that enables readers to move quickly from one language to another, and an organization that contemporary readers will (nd familiar. It opens as a Hebrew-language book (from le) to right).  
+for ease of reading and features clear type, an engaging and efficient two-column format that enables readers to move quickly from one language to another, and an organization that contemporary readers will (nd familiar. It opens as a Hebrew-language book (from left to right).  
   
 </b>
 
