@@ -52,7 +52,7 @@ Our authors, readers and donors represent the entire spectrum of the Jewish comm
 <b>* The JPS TANAKH (Hebrew Bible)</b>
 **************************************************************************************************************
 
-<img src="https://user-images.githubusercontent.com/12058974/153958471-b55d7aa8-dfd1-42c4-9af9-5c5233fc16fb.png" alt="Screen-Shot-2015-07-08-at-2 41 01-PM" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/12058974/153958471-b55d7aa8-dfd1-42c4-9af9-5c5233fc16fb.png" alt="Screen-Shot-2015-07-08-at-2 41 01-PM" style="max-width: 100%;"><br/><br/>
 
 Attention Rabbis and Chaplains: Free JPS Tanakh Offer!
 
