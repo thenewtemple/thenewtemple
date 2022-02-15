@@ -2,6 +2,21 @@
 <b>* The Jewish Publication Society (JPS) </b>
 **************************************************************************************************************
 
+<!--
+**thenewtemple/thenewtemple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <b>Isaiah 28:9 Whom shall one teach knowledge? And whom shall one make to understand the message? Them that are weaned from the milk, them that are drawn from the breasts? 28:10 For it is precept by precept, precept by precept, line by line, line by line; here a little, there a little. 28:11 For with stammering lips and with a strange tongue shall it be spoken to this people; ([JPS] Jewish Publication Society OT)</b>
 
 https://jps.org/
@@ -105,7 +120,7 @@ JPS Hebrew-English Tanakh
   
 The JPS Hebrew-English Tanakh features the oldest-known complete Hebrew version of the Holy
 Scriptures, side by side with JPS’s renowned English translation. Its well-designed format allows
-for ease of reading and features clear type, an engaging and efficient two-column format that enables readers to move quickly from one language to another, and an organization that contemporary readers will (nd familiar. It opens as a Hebrew-language book (from left to right).
+for ease of reading and features clear type, an engaging and efficient two-column format that enables readers to move quickly from one language to another, and an organization that contemporary readers will and familiar. It opens as a Hebrew-language book (from left to right).
   
 ![jps](https://user-images.githubusercontent.com/12058974/154040684-6ca316ab-185d-4d1b-b4fa-7081b3c47f2c.png)
 
@@ -138,21 +153,6 @@ Award-winning, accessible commentaries by today's top scholars.
 **************************************************************************************************************
 <b>* The Prophecies about Return of Eliyahu Hanavi and David Melech in the End of Days </b>
 **************************************************************************************************************
-
-<!--
-**yaelsystems/yaelsystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <b>
   
@@ -190,7 +190,7 @@ Here are some ideas to get you started:
 
 * Psalms 147:12 Glorify the LORD, O Jerusalem; praise thy God, O Zion. ([JPS] Jewish Publication Society OT)
   
-* Jeremiah 31:13 Then shall the virgin rejoice in the dance, and the young men and the old together; for I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow. 31:14 And I will satiate the soul of the priests with fatness, and My people shall be satisfied with My goodness, saith the LORD. ([JPS] Jewish Publication Society OT)</b>
+* Jeremiah 31:13 Then shall the virgin rejoice in the dance, and the young men and the old together; for I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow. 31:14 And I will satiate the soul of the priests with fatness, and My people shall be satisfied with My goodness, saith the LORD. ([JPS] Jewish Publication Society OT)
 
 * Jeremiah 33:11 the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voice of them that say: ‘Give thanks to the LORD of hosts, for the LORD is good, for His mercy endureth for ever’, even of them that bring offerings of thanksgiving into the house of the LORD. For I will cause the captivity of the land to return as at the first, saith the LORD.([JPS] Jewish Publication Society OT)</b>
 
