@@ -2,6 +2,8 @@
 <b>* Jewish Publication Society (JPS) </b>
 **************************************************************************************************************
 
+<b>* Isaiah 28:9 Whom shall one teach knowledge? And whom shall one make to understand the message? Them that are weaned from the milk, them that are drawn from the breasts? 28:10 For it is precept by precept, precept by precept, line by line, line by line; here a little, there a little. 28:11 For with stammering lips and with a strange tongue shall it be spoken to this people; ([JPS] Jewish Publication Society OT)</b>
+
 https://jps.org/
 
 **************************************************************************************************************
@@ -36,11 +38,15 @@ https://jps.org/
 
 ![JPS-book-shelf-e1441829148102](https://user-images.githubusercontent.com/12058974/154044853-d23da878-04e2-43c7-a2c0-cabbf988a25c.jpg)
 
+<b>
+
 The Jewish Publication Society (JPS) is about the great books of Judaism. Our mission is to promote Jewish literacy and self-understanding through the publication of books of enduring worth.
 
 “Accessible scholarship” is JPS’s unique niche. JPS works represent the highest levels of scholarship, written in a popular manner. Our books include The JPS TANAKH, esteemed Bible commentaries, and hundreds of scholarly and popular works of history, philosophy, and literature.
 
 Our authors, readers and donors represent the entire spectrum of the Jewish community.
+  
+</b>  
 
 **************************************************************************************************************
 <b>* The JPS TANAKH (Hebrew Bible)</b>
@@ -149,8 +155,6 @@ Here are some ideas to get you started:
 -->
 
 <b>
-  
-* Isaiah 28:9 Whom shall one teach knowledge? And whom shall one make to understand the message? Them that are weaned from the milk, them that are drawn from the breasts? 28:10 For it is precept by precept, precept by precept, line by line, line by line; here a little, there a little. 28:11 For with stammering lips and with a strange tongue shall it be spoken to this people; ([JPS] Jewish Publication Society OT)
   
 * Amos 3:7 For the Lord GOD will do nothing, but He revealeth His counsel unto His servants the prophets. ([JPS] Jewish Publication Society OT)  
   
