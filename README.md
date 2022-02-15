@@ -1,7 +1,5 @@
 <img src="https://user-images.githubusercontent.com/12058974/153958471-b55d7aa8-dfd1-42c4-9af9-5c5233fc16fb.png" alt="Screen-Shot-2015-07-08-at-2 41 01-PM" style="max-width: 100%;">
 
-![jps](https://user-images.githubusercontent.com/12058974/154040684-6ca316ab-185d-4d1b-b4fa-7081b3c47f2c.png)
-
 <b>The Jewish Publication Society (JPS)
 
 Overview
@@ -44,7 +42,9 @@ JPS Hebrew-English Tanakh
   
 The JPS Hebrew-English Tanakh features the oldest-known complete Hebrew version of the Holy
 Scriptures, side by side with JPS’s renowned English translation. Its well-designed format allows
-for ease of reading and features clear type, an engaging and efficient two-column format that enables readers to move quickly from one language to another, and an organization that contemporary readers will (nd familiar. It opens as a Hebrew-language book (from left to right).  
+for ease of reading and features clear type, an engaging and efficient two-column format that enables readers to move quickly from one language to another, and an organization that contemporary readers will (nd familiar. It opens as a Hebrew-language book (from left to right).
+  
+![jps](https://user-images.githubusercontent.com/12058974/154040684-6ca316ab-185d-4d1b-b4fa-7081b3c47f2c.png)
   
 </b>
 
