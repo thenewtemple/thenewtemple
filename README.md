@@ -150,6 +150,8 @@ Here are some ideas to get you started:
 
 <b>
   
+* Isaiah 28:9 Whom shall one teach knowledge? And whom shall one make to understand the message? Them that are weaned from the milk, them that are drawn from the breasts? 28:10 For it is precept by precept, precept by precept, line by line, line by line; here a little, there a little. 28:11 For with stammering lips and with a strange tongue shall it be spoken to this people; ([JPS] Jewish Publication Society OT)
+  
 * Amos 3:7 For the Lord GOD will do nothing, but He revealeth His counsel unto His servants the prophets. ([JPS] Jewish Publication Society OT)  
   
 * Malachi 3-19 (4:1) For, behold, the day cometh, it burneth as a furnace; and all the proud, and all that work wickedness, shall be stubble; and the day that cometh shall set them ablaze, saith the LORD of hosts, that it shall leave them neither root nor branch. Malachi 3-20 (4:2) But unto you that fear My name shall the sun of righteousness arise with healing in its wings; and ye shall go forth, and gambol as calves of the stall. Malachi 3-21 (4:3)  And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I do make, saith the LORD of hosts. Malachi 3-22 (4:4) Remember ye the law of Moses My servant, which I commanded unto him in Horeb for all Israel, even statutes and ordinances. Malachi 3-23 (4:5) Behold, I will send you Elijah the prophet before the coming of the great and terrible day of the LORD. Malachi 3-24 (4:6) And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers; lest I come and smite the land with utter destruction. ([JPS] Jewish Publication Society OT)
