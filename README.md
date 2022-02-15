@@ -2,6 +2,8 @@
 <b>* The “People of the Book” </b>
 **************************************************************************************************************
 
+![JPS-book-shelf-e1441829148102](https://user-images.githubusercontent.com/12058974/154044853-d23da878-04e2-43c7-a2c0-cabbf988a25c.jpg)
+
 The Jewish Publication Society (JPS) is about the great books of Judaism. Our mission is to promote Jewish literacy and self-understanding through the publication of books of enduring worth.
 
 “Accessible scholarship” is JPS’s unique niche. JPS works represent the highest levels of scholarship, written in a popular manner. Our books include The JPS TANAKH, esteemed Bible commentaries, and hundreds of scholarly and popular works of history, philosophy, and literature.
