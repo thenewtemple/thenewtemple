@@ -14,9 +14,9 @@ of the Hebrew Bible in the Jewish world and beyond.
 Editions
   
 The JPS Tanakh is available in print in various sizes, colors, and styles in both a Hebrew-English
-edition and an English-only edition. !e English-only version is also available through most
-e-book vendors. Print editions of portions of the Tanakh are also available, such as %e Torah, %e
-Book of Psalms, and %e Five Megilloth and Jonah. !e JPS Audio Bible is an audio version of the
+edition and an English-only edition. The English-only version is also available through most
+e-book vendors. Print editions of portions of the Tanakh are also available, such as The Torah, The
+Book of Psalms, and The Five Megilloth and Jonah. The JPS Audio Bible is an audio version of the
 English-only edition available through audible.com and iTunes.com.
   
 About the Translation
