@@ -1,4 +1,10 @@
 **************************************************************************************************************
+<b>* Jewish Publication Society (JPS) </b>
+**************************************************************************************************************
+
+https://jps.org/
+
+**************************************************************************************************************
 <b>* The “People of the Book” </b>
 **************************************************************************************************************
 
@@ -93,8 +99,6 @@ for ease of reading and features clear type, an engaging and efficient two-colum
 ![Screen-Shot-2015-07-08-at-3 37 21-PM](https://user-images.githubusercontent.com/12058974/154045005-fc0256f2-3eeb-4293-ada2-1a6ad42ef3ea.png)
 
 Award-winning, accessible commentaries by today's top scholars.
-
-https://jps.org/
 
 </b>
 
