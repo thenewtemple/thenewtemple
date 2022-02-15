@@ -22,6 +22,8 @@ https://jps.org/
 
 * Exodus 24:7 And he took the book of the covenant, and read in the hearing of the people; and they said: ‘All that the LORD hath spoken will we do, and obey.’ ([JPS] Jewish Publication Society OT)
   
+* Exodus 32:33 And the LORD said unto Moses: ‘Whosoever hath sinned against Me, him will I blot out of My book. ([JPS] Jewish Publication Society OT)  
+  
 * Deuteronomy 17:18 And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book, out of that which is before the priests the Levites. 17:19 And it shall be with him, and he shall read therein all the days of his life; that he may learn to fear the LORD his God, to keep all the words of this law and these statutes, to do them; Deuteronomy 17:20 that his heart be not lifted up above his brethren, and that he turn not aside from the commandment, to the right hand, or to the left; to the end that he may prolong his days in his kingdom, he and his children, in the midst of Israel.
   
 </b>
