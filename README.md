@@ -2,6 +2,8 @@
 <b>* The “People of the Book” </b>
 **************************************************************************************************************
 
+<b>Exodus 17:14 וַיֹּאמֶר יְהוָה אֶל-מֹשֶׁה כְּתֹב זֹאת זִכָּרוֺן בַּסֵּפֶר וְשִׂים בְּאָזְנֵי יְהוֺשֻׁעַ כִּי-מָחֹה אֶמְחֶה אֶת-זֵכֶר עֲמָלֵק מִתַּחַת הַשָּׁמָיִם:</b>
+
 <b>Exodus 17:14 And the LORD said unto Moses: ‘Write this for a memorial in the book, and rehearse it in the ears of Joshua: for I will utterly blot out the remembrance of Amalek from under heaven.’ Exodus 17:15 And Moses built an altar, and called the name of it Adonai-nissi. ([JPS] Jewish Publication Society OT) </b>
 
 **************************************************************************************************************
