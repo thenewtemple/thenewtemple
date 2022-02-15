@@ -1,5 +1,7 @@
 <img src="https://user-images.githubusercontent.com/12058974/153958471-b55d7aa8-dfd1-42c4-9af9-5c5233fc16fb.png" alt="Screen-Shot-2015-07-08-at-2 41 01-PM" style="max-width: 100%;">
 
+![jps](https://user-images.githubusercontent.com/12058974/154040684-6ca316ab-185d-4d1b-b4fa-7081b3c47f2c.png)
+
 <b>The Jewish Publication Society (JPS)
 
 Overview
