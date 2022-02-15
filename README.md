@@ -1,6 +1,52 @@
 <img src="https://user-images.githubusercontent.com/12058974/153958471-b55d7aa8-dfd1-42c4-9af9-5c5233fc16fb.png" alt="Screen-Shot-2015-07-08-at-2 41 01-PM" style="max-width: 100%;">
 
-<b>The Jewish Publication Society (JPS)</b>
+<b>The Jewish Publication Society (JPS)
+
+Overview
+
+The Tanakh is the canon of the Jewish Bible (also known as the Hebrew Bible, the Holy Scriptures,
+or the Old Testament). “Tanakh” is an acronym for the text’s three sections: the Torah (the Five
+Books of Moses), Nevi’im (Prophets) and Ketuvim (Writings).
+
+The JPS Tanakh is widely recognized as the most authoritative and preferred English translation
+of the Hebrew Bible in the Jewish world and beyond.
+  
+Editions
+  
+The JPS Tanakh is available in print in various sizes, colors, and styles in both a Hebrew-English
+edition and an English-only edition. !e English-only version is also available through most
+e-book vendors. Print editions of portions of the Tanakh are also available, such as %e Torah, %e
+Book of Psalms, and %e Five Megilloth and Jonah. !e JPS Audio Bible is an audio version of the
+English-only edition available through audible.com and iTunes.com.
+  
+About the Translation
+  
+Regarded throughout the English-speaking world as a landmark English translation of the Holy
+Scriptures, the JPS Tanakh has been acclaimed by scholars, rabbis, lay leaders and Jews alike. 
+The JPS Tanakh is an entirely original translation of the Holy Scriptures into contemporary English, 
+based on the original masoretic (traditional Hebrew) text. The JPS tanakh
+emerged from the collaborative efforts of an interdenominational team of Jewish scholars and
+rabbis working together over a twenty-year period. The translators made use of the entire range of
+biblical interpretation, ancient and modern, Jewish and non-Jewish. !e resulting text is a triumph
+of literary style and biblical scholarship, unsurpassed in accuracy and clarity. 
+  
+About the Hebrew Text
+  
+Thee Hebrew text of the JPS Tanakh is based on the famed Leningrad Codex, the masoretic text
+traceable to Aaron ben Moses ben Asher, ca. 930. Ben Asher researched all available texts to compile an authoritative Bible manuscript. 
+In 1010 his work was revised by Samuel ben Jacob, a scribe in Egypt. Lost for centuries, 
+the manuscript was eventually discovered in the mid-nineteenth century and became known as the Leningrad Codex. 
+JPS has adapted the latest BHS edition of the Leningrad text by correcting errors and providing modern paragraphing.  
+  
+hebrew-english
+  
+JPS Hebrew-English Tanakh
+  
+The JPS Hebrew-English Tanakh features the oldest-known complete Hebrew version of the Holy
+Scriptures, side by side with JPS’s renowned English translation. Its well-designed format allows
+for ease of reading and features clear type, an engaging and e'cient two-column format that enables readers to move quickly from one language to another, and an organization that contemporary readers will (nd familiar. It opens as a Hebrew-language book (from le) to right).  
+  
+</b>
 
 https://jps.org/
 
