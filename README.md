@@ -26,9 +26,9 @@ https://jps.org/
 
 * Deuteronomy 4:44 And this is the law which Moses set before the children of Israel; 4:45 these are the testimonies, and the statutes, and the ordinances, which Moses spoke unto the children of Israel, when they came forth out of Egypt; ([JPS] Jewish Publication Society OT)   
   
-* Deuteronomy 17:18 And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book, out of that which is before the priests the Levites. 17:19 And it shall be with him, and he shall read therein all the days of his life; that he may learn to fear the LORD his God, to keep all the words of this law and these statutes, to do them; Deuteronomy 17:20 that his heart be not lifted up above his brethren, and that he turn not aside from the commandment, to the right hand, or to the left; to the end that he may prolong his days in his kingdom, he and his children, in the midst of Israel.
+* Deuteronomy 17:18 And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book, out of that which is before the priests the Levites. 17:19 And it shall be with him, and he shall read therein all the days of his life; that he may learn to fear the LORD his God, to keep all the words of this law and these statutes, to do them; Deuteronomy 17:20 that his heart be not lifted up above his brethren, and that he turn not aside from the commandment, to the right hand, or to the left; to the end that he may prolong his days in his kingdom, he and his children, in the midst of Israel. ([JPS] Jewish Publication Society OT)
   
-* Deuteronomy 31:9 And Moses wrote this law, and delivered it unto the priests the sons of Levi, that bore the ark of the covenant of the LORD, and unto all the elders of Israel.
+* Deuteronomy 31:9 And Moses wrote this law, and delivered it unto the priests the sons of Levi, that bore the ark of the covenant of the LORD, and unto all the elders of Israel.([JPS] Jewish Publication Society OT)
   
 </b>
 
