@@ -2,6 +2,10 @@
 <b>* The “People of the Book” </b>
 **************************************************************************************************************
 
+<b>Exodus 17:14 And the LORD said unto Moses: ‘Write this for a memorial in the book, and rehearse it in the ears of Joshua: for I will utterly blot out the remembrance of Amalek from under heaven.’ Exodus 17:15 And Moses built an altar, and called the name of it Adonai-nissi. ([JPS] Jewish Publication Society OT) </b>
+
+**************************************************************************************************************
+
 ![JPS-book-shelf-e1441829148102](https://user-images.githubusercontent.com/12058974/154044853-d23da878-04e2-43c7-a2c0-cabbf988a25c.jpg)
 
 The Jewish Publication Society (JPS) is about the great books of Judaism. Our mission is to promote Jewish literacy and self-understanding through the publication of books of enduring worth.
