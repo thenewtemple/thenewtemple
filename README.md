@@ -1,6 +1,29 @@
+**************************************************************************************************************
+<b>* The “People of the Book” </b>
+**************************************************************************************************************
+
+The Jewish Publication Society (JPS) is about the great books of Judaism. Our mission is to promote Jewish literacy and self-understanding through the publication of books of enduring worth.
+
+“Accessible scholarship” is JPS’s unique niche. JPS works represent the highest levels of scholarship, written in a popular manner. Our books include The JPS TANAKH, esteemed Bible commentaries, and hundreds of scholarly and popular works of history, philosophy, and literature.
+
+Our authors, readers and donors represent the entire spectrum of the Jewish community.
+
+**************************************************************************************************************
+<b>* The JPS TANAKH (Hebrew Bible)</b>
+**************************************************************************************************************
+
 <img src="https://user-images.githubusercontent.com/12058974/153958471-b55d7aa8-dfd1-42c4-9af9-5c5233fc16fb.png" alt="Screen-Shot-2015-07-08-at-2 41 01-PM" style="max-width: 100%;">
 
-<b>The Jewish Publication Society (JPS)
+Attention Rabbis and Chaplains: Free JPS Tanakh Offer!
+
+THE JPS TANAKH: Gender-Sensitive Edition!
+
+Recognized as the most authoritative and preferred English translation of the Hebrew Bible.
+The Torah and the Tanakh are available in many formats.
+JPS has prepared "A Customer Guide to Choosing Your Bible." It is available online here or as a PDF download.
+The Holy Scriptures, Tanakh 1917 edition (OJPS), is available as a free e-book.
+
+**************************************************************************************************************
 
 Overview
 
@@ -45,10 +68,16 @@ Scriptures, side by side with JPS’s renowned English translation. Its well-des
 for ease of reading and features clear type, an engaging and efficient two-column format that enables readers to move quickly from one language to another, and an organization that contemporary readers will (nd familiar. It opens as a Hebrew-language book (from left to right).
   
 ![jps](https://user-images.githubusercontent.com/12058974/154040684-6ca316ab-185d-4d1b-b4fa-7081b3c47f2c.png)
-  
-</b>
+
+**************************************************************************************************************
+<b>* JPS Bible & Torah Commentarie </b>
+**************************************************************************************************************
+
+Award-winning, accessible commentaries by today's top scholars.
 
 https://jps.org/
+
+</b>
 
 **************************************************************************************************************
 <b>* Adonai Salvation Israel. </b>
