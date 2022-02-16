@@ -73,6 +73,8 @@ Our authors, readers and donors represent the entire spectrum of the Jewish comm
 
 <img src="https://user-images.githubusercontent.com/12058974/153958471-b55d7aa8-dfd1-42c4-9af9-5c5233fc16fb.png" alt="Screen-Shot-2015-07-08-at-2 41 01-PM" style="max-width: 100%;"><br/><br/>
 
+<b>
+
 Attention Rabbis and Chaplains: Free JPS Tanakh Offer!
 
 THE JPS TANAKH: Gender-Sensitive Edition!
@@ -126,6 +128,8 @@ The JPS Hebrew-English Tanakh features the oldest-known complete Hebrew version 
 Scriptures, side by side with JPS’s renowned English translation. Its well-designed format allows
 for ease of reading and features clear type, an engaging and efficient two-column format that enables readers to move quickly from one language to another, and an organization that contemporary readers will and familiar. It opens as a Hebrew-language book (from left to right).
   
+</b>    
+  
 ![jps](https://user-images.githubusercontent.com/12058974/154040684-6ca316ab-185d-4d1b-b4fa-7081b3c47f2c.png)
 
 **************************************************************************************************************
@@ -133,6 +137,8 @@ for ease of reading and features clear type, an engaging and efficient two-colum
 **************************************************************************************************************
 
 ![Screen-Shot-2015-07-08-at-3 37 21-PM](https://user-images.githubusercontent.com/12058974/154045005-fc0256f2-3eeb-4293-ada2-1a6ad42ef3ea.png)
+
+<b>
 
 Award-winning, accessible commentaries by today's top scholars.
 
@@ -143,14 +149,16 @@ Award-winning, accessible commentaries by today's top scholars.
 **************************************************************************************************************
 
 <b>
-  
+
 * Isaiah 43:10 Ye are My witnesses, saith the LORD, and My servant whom I have chosen; that ye may know and believe Me, and understand that I am He; before Me there was no God formed, neither shall any be after Me. (43:11) I, even I, am the LORD; and beside Me there is no saviour. (43:12) I have declared, and I have saved, and I have announced, and there was no strange god among you; therefore ye are My witnesses, saith the LORD, and I am God. ([JPS] Jewish Publication Society OT)
 
 * Isaiah 44:6 Thus saith the LORD, the King of Israel, and his Redeemer the LORD of hosts: I am the first, and I am the last, and beside Me there is no God. ([JPS] Jewish Publication Society OT)
 
 * Isaiah 45:21 Declare ye, and bring them near, yea, let them take counsel together: Who hath announced this from ancient time, and declared it of old? Have not I the LORD? And there is no God else beside Me, a just God and a Saviour; there is none beside Me. (45:22) Look unto Me, and be ye saved, all the ends of the earth; for I am God, and there is none else. (45:23) By Myself have I sworn, the word is gone forth from My mouth in righteousness, and shall not come back, that unto Me every knee shall bow, every tongue shall swear. ([JPS] Jewish Publication Society OT)
 
-* Hosea 13:4 Yet I am the LORD thy God from the land of Egypt; and thou knowest no God but Me, and beside Me there is no saviour. ([JPS] Jewish Publication Society OT)</b>
+* Hosea 13:4 Yet I am the LORD thy God from the land of Egypt; and thou knowest no God but Me, and beside Me there is no saviour. ([JPS] Jewish Publication Society OT)
+
+</b>
 
 **************************************************************************************************************
 <b>* Truth to the ground </b>
