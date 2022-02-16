@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 <b>
   
-* <h3>Deuteronomy 12:31 Thou shalt not do so unto the LORD thy God; for every abomination to the LORD, which He hateth, have they done unto their gods; for even their sons and their daughters do they burn in the fire to their gods. Deuteronomy 12:32 (13-1) All this word which I command you, that shall ye observe to do; thou shalt not add thereto, nor diminish from it. Deuteronomy 13:1 (13-2) If there arise in the midst of thee a prophet, or a dreamer of dreams—and he give thee a sign or a wonder,
-([JPS] Jewish Publication Society OT)</h3>
+* <h3>Deuteronomy 12:31 Thou shalt not do so unto the LORD thy God; for every abomination to the LORD, which He hateth, have they done unto their gods; for even their sons and their daughters do they burn in the fire to their gods. Deuteronomy 12:32 (13-1) All this word which I command you, that shall ye observe to do; thou shalt not add thereto, nor diminish from it. Deuteronomy 13:1 (13-2) If there arise in the midst of thee a prophet, or a dreamer of dreams—and he give thee a sign or a wonder, Deuteronomy 13:2 (13-3) and the sign or the wonder come to pass, whereof he spoke unto thee—saying: ‘Let us go after other gods, which thou hast not known, and let us serve them’; ([JPS] Jewish Publication Society OT)</h3>
   
 * Isaiah 28:9 Whom shall one teach knowledge? And whom shall one make to understand the message? Them that are weaned from the milk, them that are drawn from the breasts? 28:10 For it is precept by precept, precept by precept, line by line, line by line; here a little, there a little. 28:11 For with stammering lips and with a strange tongue shall it be spoken to this people; ([JPS] Jewish Publication Society OT)
   
