@@ -149,10 +149,10 @@ Award-winning, accessible commentaries by today's top scholars.
 * Hosea 13:4 Yet I am the LORD thy God from the land of Egypt; and thou knowest no God but Me, and beside Me there is no saviour. ([JPS] Jewish Publication Society OT)</b>
 
 **************************************************************************************************************
-<b>* <h1>truth to the ground</h1> <b>
+<b>* <h1>Truth to the ground</h1> <b>
 **************************************************************************************************************
 
-<b><h1>Daniel 8:12 And the host was given over to it together with the continual burnt-offering through transgression; and it cast down truth to the ground, and it wrought, and prospered.<h1><b>
+<b><h1>Daniel 8:12 And the host was given over to it together with the continual burnt-offering through transgression; and it cast down truth to the ground, and it wrought, and prospered.</h1></b>
 
 **************************************************************************************************************
 <b>* The Prophecies about Return of Eliyahu Hanavi and David Melech in the End of Days </b>
