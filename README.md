@@ -33,14 +33,6 @@ https://jps.org/
 
 <b>
   
-<h3>
-שמות
-</br></br>
-וַיֹּאמֶר יְהוָה אֶל-מֹשֶׁה כְּתֹב זֹאת זִכָּרוֺן בַּסֵּפֶר וְשִׂים בְּאָזְנֵי יְהוֺשֻׁעַ כִּי-מָחֹה אֶמְחֶה אֶת-זֵכֶר עֲמָלֵק מִתַּחַת הַשָּׁמָיִם:
-</h3>
-</br>
-<b>
-  
 * Exodus 17:14 And the LORD said unto Moses: ‘Write this for a memorial in the book, and rehearse it in the ears of Joshua: for I will utterly blot out the remembrance of Amalek from under heaven.’ Exodus 17:15 And Moses built an altar, and called the name of it Adonai-nissi. ([JPS] Jewish Publication Society OT)
 
 * Exodus 24:7 And he took the book of the covenant, and read in the hearing of the people; and they said: ‘All that the LORD hath spoken will we do, and obey.’ ([JPS] Jewish Publication Society OT)
