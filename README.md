@@ -153,6 +153,8 @@ Award-winning, accessible commentaries by today's top scholars.
 **************************************************************************************************************
 
 <b>
+
+![0359c9b57c753dd68cf029940501a628](https://user-images.githubusercontent.com/12058974/154319550-3cb30547-e569-4125-9041-3be54d0d12f4.png)
   
 * Amos 3:7 For the Lord GOD will do nothing, but He revealeth His counsel unto His servants the prophets. ([JPS] Jewish Publication Society OT)  
   
