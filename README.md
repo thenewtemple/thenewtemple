@@ -153,6 +153,8 @@ Award-winning, accessible commentaries by today's top scholars.
 **************************************************************************************************************
 
 <b>
+  
+<img src="https://user-images.githubusercontent.com/12058974/154320002-052b8419-0f29-433f-a59d-ad9d4762c127.png" alt="da50dc28-28ba-45be-bf43-5a94e990828a" style="max-width: 100%;">  
 
 ![0359c9b57c753dd68cf029940501a628](https://user-images.githubusercontent.com/12058974/154319550-3cb30547-e569-4125-9041-3be54d0d12f4.png)
   
