@@ -154,7 +154,7 @@ Award-winning, accessible commentaries by today's top scholars.
 
 <b><h1>Daniel 2:1 And in the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams; and his spirit was troubled, and his sleep broke from him.</h1></b>
 
-![0755fde5da9ef8e0c399e6adfa8415fa](https://user-images.githubusercontent.com/12058974/154326569-caae7c70-c6fd-48cc-a267-79bc903b89b5.jpg)
+<img src="https://user-images.githubusercontent.com/12058974/154330581-e1697e7f-ef9e-44ab-acc3-9f040fd18f52.jpg" alt="0755fde5da9ef8e0c399e6adfa8415fa" style="max-width: 100%;">
 
 <b><h1>Daniel 7:1 In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed; then he wrote the dream and told the sum of the matters.</h1></b>
 
