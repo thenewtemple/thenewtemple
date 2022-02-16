@@ -160,7 +160,9 @@ Award-winning, accessible commentaries by today's top scholars.
 
 <img src="https://user-images.githubusercontent.com/12058974/154327894-441cf5ae-499a-4735-b019-b7f6ba6c247e.jpg" alt="download (2)" style="max-width: 100%;">
 
-<b>Daniel 8:11 Yea, it magnified itself, even to the prince of the host; and from him the continual burnt-offering was taken away, and the place of his sanctuary was cast down. Daniel <h1>8:12 And the host was given over to it together with the continual burnt-offering through transgression; and it cast down truth to the ground, and it wrought, and prospered.</h1></b>
+<b>Daniel 8:11 Yea, it magnified itself, even to the prince of the host; and from him the continual burnt-offering was taken away, and the place of his sanctuary was cast down.
+  
+<h1>Daniel 8:12 And the host was given over to it together with the continual burnt-offering through transgression; and it cast down truth to the ground, and it wrought, and prospered.</h1></b>
 
 **************************************************************************************************************
 <b>* The Prophecies about Return of Eliyahu Hanavi and David Melech in the End of Days </b>
