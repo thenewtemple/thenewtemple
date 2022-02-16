@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<b>* Isaiah 28:9 Whom shall one teach knowledge? And whom shall one make to understand the message? Them that are weaned from the milk, them that are drawn from the breasts? 28:10 For it is precept by precept, precept by precept, line by line, line by line; here a little, there a little. 28:11 For with stammering lips and with a strange tongue shall it be spoken to this people; ([JPS] Jewish Publication Society OT)</b>
+<b>
+  
+* Isaiah 28:9 Whom shall one teach knowledge? And whom shall one make to understand the message? Them that are weaned from the milk, them that are drawn from the breasts? 28:10 For it is precept by precept, precept by precept, line by line, line by line; here a little, there a little. 28:11 For with stammering lips and with a strange tongue shall it be spoken to this people; ([JPS] Jewish Publication Society OT)
+  
+* Jeremiah 31:35 Thus saith the LORD, Who giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, who stirreth up the sea, that the waves thereof roar, the LORD of hosts is His name: 31:36 If these ordinances depart from before Me, saith the LORD, then the seed of Israel also shall cease from being a nation before Me for ever. 31:37 Thus saith the LORD: If heaven above can be measured, and the foundations of the earth searched out beneath, then will I also cast off all the seed of Israel for all that they have done, saith the LORD. ([JPS] Jewish Publication Society OT)  
+
+</b>
 
 https://jps.org/
 
@@ -211,3 +217,15 @@ Award-winning, accessible commentaries by today's top scholars.
 ![city-of-david](https://user-images.githubusercontent.com/12058974/153907516-42a964f2-94c3-4093-8c5e-297c8b04ac33.jpg)
 
 <img src="https://user-images.githubusercontent.com/12058974/153906245-6986bb03-8a89-440d-ad39-212820d51c2d.jpg" alt="kings-david-palace" style="max-width: 100%;">
+
+**************************************************************************************************************
+<b>* Be fruitful, and multiply. </b>
+**************************************************************************************************************
+
+<b>
+
+* Genesis 1:28 And God blessed them; and God said unto them: ‘Be fruitful, and multiply, and replenish the earth, and subdue it; and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that creepeth upon the earth.’([JPS] Jewish Publication Society OT)
+
+* Isaiah 4:1 And seven women shall take hold of one man in that day, saying: ‘We will eat our own bread, and wear our own apparel; only let us be called by thy name; take thou away our reproach.’ ([JPS] Jewish Publication Society OT)
+
+</b>  
