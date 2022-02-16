@@ -152,6 +152,10 @@ Award-winning, accessible commentaries by today's top scholars.
 <b>* Truth to the ground </b>
 **************************************************************************************************************
 
+<b><h1>Daniel 2:1 And in the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams; and his spirit was troubled, and his sleep broke from him.</h1></b>
+
+![0755fde5da9ef8e0c399e6adfa8415fa](https://user-images.githubusercontent.com/12058974/154326569-caae7c70-c6fd-48cc-a267-79bc903b89b5.jpg)
+
 <b><h1>Daniel 8:12 And the host was given over to it together with the continual burnt-offering through transgression; and it cast down truth to the ground, and it wrought, and prospered.</h1></b>
 
 **************************************************************************************************************
