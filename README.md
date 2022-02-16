@@ -233,8 +233,8 @@ Award-winning, accessible commentaries by today's top scholars.
 <b>
   
 * 1 samuel, 2 samuel and 1 Chronicles.
-  
-![download](https://user-images.githubusercontent.com/12058974/154256356-80dab94f-82e2-4e36-80ba-8eb296eb4d3d.jpg)
+
+![download](https://user-images.githubusercontent.com/12058974/154257284-509c12b1-3d9a-4cb1-83a9-848f29fa4121.jpg)
   
 </b>  
   
