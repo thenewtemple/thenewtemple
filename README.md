@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 <b>
   
+* Isaiah 40:1 Comfort ye, comfort ye My people, saith your God. ([JPS] Jewish Publication Society OT)  
+  
 * Isaiah 28:9 Whom shall one teach knowledge? And whom shall one make to understand the message? Them that are weaned from the milk, them that are drawn from the breasts? 28:10 For it is precept by precept, precept by precept, line by line, line by line; here a little, there a little. 28:11 For with stammering lips and with a strange tongue shall it be spoken to this people; ([JPS] Jewish Publication Society OT)
+  
+* Jeremiah 31:35 Thus saith the LORD, Who giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, who stirreth up the sea, that the waves thereof roar, the LORD of hosts is His name: 31:36 If these ordinances depart from before Me, saith the LORD, then the seed of Israel also shall cease from being a nation before Me for ever. 31:37 Thus saith the LORD: If heaven above can be measured, and the foundations of the earth searched out beneath, then will I also cast off all the seed of Israel for all that they have done, saith the LORD. ([JPS] Jewish Publication Society OT)  
   
 </b>
 
@@ -135,10 +139,6 @@ Award-winning, accessible commentaries by today's top scholars.
 **************************************************************************************************************
 
 <b>
-  
-* Isaiah 40:1 Comfort ye, comfort ye My people, saith your God. ([JPS] Jewish Publication Society OT)
-  
-* Jeremiah 31:35 Thus saith the LORD, Who giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, who stirreth up the sea, that the waves thereof roar, the LORD of hosts is His name: 31:36 If these ordinances depart from before Me, saith the LORD, then the seed of Israel also shall cease from being a nation before Me for ever. 31:37 Thus saith the LORD: If heaven above can be measured, and the foundations of the earth searched out beneath, then will I also cast off all the seed of Israel for all that they have done, saith the LORD. ([JPS] Jewish Publication Society OT)
   
 * Isaiah 43:10 Ye are My witnesses, saith the LORD, and My servant whom I have chosen; that ye may know and believe Me, and understand that I am He; before Me there was no God formed, neither shall any be after Me. (43:11) I, even I, am the LORD; and beside Me there is no saviour. (43:12) I have declared, and I have saved, and I have announced, and there was no strange god among you; therefore ye are My witnesses, saith the LORD, and I am God. ([JPS] Jewish Publication Society OT)
 
