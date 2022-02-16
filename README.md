@@ -158,7 +158,7 @@ Award-winning, accessible commentaries by today's top scholars.
 
 <b><h1>Daniel 7:1 In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed; then he wrote the dream and told the sum of the matters.</h1></b>
 
-![download (2)](https://user-images.githubusercontent.com/12058974/154327894-441cf5ae-499a-4735-b019-b7f6ba6c247e.jpg)
+![0755fde5da9ef8e0c399e6adfa8415fa](https://user-images.githubusercontent.com/12058974/154330581-e1697e7f-ef9e-44ab-acc3-9f040fd18f52.jpg)
 
 <b><h1>Daniel 8:11 Yea, it magnified itself, even to the prince of the host; and from him the continual burnt-offering was taken away, and the place of his sanctuary was cast down. Daniel 8:12 And the host was given over to it together with the continual burnt-offering through transgression; and it cast down truth to the ground, and it wrought, and prospered.</h1></b>
 
