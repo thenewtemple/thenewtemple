@@ -21,10 +21,6 @@ Here are some ideas to get you started:
   
 * Isaiah 28:9 Whom shall one teach knowledge? And whom shall one make to understand the message? Them that are weaned from the milk, them that are drawn from the breasts? 28:10 For it is precept by precept, precept by precept, line by line, line by line; here a little, there a little. 28:11 For with stammering lips and with a strange tongue shall it be spoken to this people; ([JPS] Jewish Publication Society OT)
   
-* Jeremiah 31:35 Thus saith the LORD, Who giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, who stirreth up the sea, that the waves thereof roar, the LORD of hosts is His name: 31:36 If these ordinances depart from before Me, saith the LORD, then the seed of Israel also shall cease from being a nation before Me for ever. 31:37 Thus saith the LORD: If heaven above can be measured, and the foundations of the earth searched out beneath, then will I also cast off all the seed of Israel for all that they have done, saith the LORD. ([JPS] Jewish Publication Society OT)
-  
-* Zechariah 12:6 In that day will I make the chiefs of Judah like a pan of fire among the wood, and like a torch of fire among sheaves; and they shall devour all the peoples round about, on the right hand and on the left; and Jerusalem shall be inhabited again in her own place, even in Jerusalem. 12:7 The LORD also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem be not magnified above Judah. 12:8 In that day shall the LORD defend the inhabitants of Jerusalem; and he that stumbleth among them at that day shall be as David; and the house of David shall be as a godlike being, as the angel of the LORD before them. Zechariah 12:9 And it shall come to pass in that day, that I will seek to destroy all the nations that come against Jerusalem. ([JPS] Jewish Publication Society OT) 
-
 </b>
 
 https://jps.org/
@@ -141,6 +137,10 @@ Award-winning, accessible commentaries by today's top scholars.
 <b>
   
 * Isaiah 40:1 Comfort ye, comfort ye My people, saith your God. ([JPS] Jewish Publication Society OT)
+  
+* Jeremiah 31:35 Thus saith the LORD, Who giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, who stirreth up the sea, that the waves thereof roar, the LORD of hosts is His name: 31:36 If these ordinances depart from before Me, saith the LORD, then the seed of Israel also shall cease from being a nation before Me for ever. 31:37 Thus saith the LORD: If heaven above can be measured, and the foundations of the earth searched out beneath, then will I also cast off all the seed of Israel for all that they have done, saith the LORD. ([JPS] Jewish Publication Society OT)
+  
+* Zechariah 12:6 In that day will I make the chiefs of Judah like a pan of fire among the wood, and like a torch of fire among sheaves; and they shall devour all the peoples round about, on the right hand and on the left; and Jerusalem shall be inhabited again in her own place, even in Jerusalem. 12:7 The LORD also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem be not magnified above Judah. 12:8 In that day shall the LORD defend the inhabitants of Jerusalem; and he that stumbleth among them at that day shall be as David; and the house of David shall be as a godlike being, as the angel of the LORD before them. Zechariah 12:9 And it shall come to pass in that day, that I will seek to destroy all the nations that come against Jerusalem. ([JPS] Jewish Publication Society OT)   
   
 * Isaiah 43:10 Ye are My witnesses, saith the LORD, and My servant whom I have chosen; that ye may know and believe Me, and understand that I am He; before Me there was no God formed, neither shall any be after Me. (43:11) I, even I, am the LORD; and beside Me there is no saviour. (43:12) I have declared, and I have saved, and I have announced, and there was no strange god among you; therefore ye are My witnesses, saith the LORD, and I am God. ([JPS] Jewish Publication Society OT)
 
