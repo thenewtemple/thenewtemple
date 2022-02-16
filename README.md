@@ -224,4 +224,15 @@ Award-winning, accessible commentaries by today's top scholars.
 
 * Isaiah 4:1 And seven women shall take hold of one man in that day, saying: ‘We will eat our own bread, and wear our own apparel; only let us be called by thy name; take thou away our reproach.’ ([JPS] Jewish Publication Society OT)
 
+</b>
+
+**************************************************************************************************************
+<b>* David’s Wives - Example Be fruitful, and Multiply </b>
+**************************************************************************************************************
+
+<b>
+  
+* 1 samuel, 2 samuel and 1 Chronicles.
+  
 </b>  
+  
