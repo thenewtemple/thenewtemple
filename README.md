@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <b>
   
 <h3> 
+
+* Deuteronomy 6:4 HEAR, O ISRAEL: THE LORD OUR GOD, THE LORD IS ONE.   
   
 * Isaiah 28:9 Whom shall one teach knowledge? And whom shall one make to understand the message? Them that are weaned from the milk, them that are drawn from the breasts? 28:10 For it is precept by precept, precept by precept, line by line, line by line; here a little, there a little. 28:11 For with stammering lips and with a strange tongue shall it be spoken to this people; ([JPS] Jewish Publication Society OT)
   
 * Jeremiah 6:16 Thus saith the LORD: Stand ye in the ways and see, and ask for the old paths, where is the good way, and walk therein, and ye shall find rest for your souls. But they said: ‘We will not walk therein.’ ([JPS] Jewish Publication Society OT)
   
 * Deuteronomy 12:32 (13-1) All this word which I command you, that shall ye observe to do; thou shalt not add thereto, nor diminish from it.
-  
-* Deuteronomy 6:4 HEAR, O ISRAEL: THE LORD OUR GOD, THE LORD IS ONE. 
   
 </h3>  
   
