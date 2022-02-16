@@ -140,8 +140,6 @@ Award-winning, accessible commentaries by today's top scholars.
   
 * Jeremiah 31:35 Thus saith the LORD, Who giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, who stirreth up the sea, that the waves thereof roar, the LORD of hosts is His name: 31:36 If these ordinances depart from before Me, saith the LORD, then the seed of Israel also shall cease from being a nation before Me for ever. 31:37 Thus saith the LORD: If heaven above can be measured, and the foundations of the earth searched out beneath, then will I also cast off all the seed of Israel for all that they have done, saith the LORD. ([JPS] Jewish Publication Society OT)
   
-* Zechariah 12:6 In that day will I make the chiefs of Judah like a pan of fire among the wood, and like a torch of fire among sheaves; and they shall devour all the peoples round about, on the right hand and on the left; and Jerusalem shall be inhabited again in her own place, even in Jerusalem. 12:7 The LORD also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem be not magnified above Judah. 12:8 In that day shall the LORD defend the inhabitants of Jerusalem; and he that stumbleth among them at that day shall be as David; and the house of David shall be as a godlike being, as the angel of the LORD before them. Zechariah 12:9 And it shall come to pass in that day, that I will seek to destroy all the nations that come against Jerusalem. ([JPS] Jewish Publication Society OT)   
-  
 * Isaiah 43:10 Ye are My witnesses, saith the LORD, and My servant whom I have chosen; that ye may know and believe Me, and understand that I am He; before Me there was no God formed, neither shall any be after Me. (43:11) I, even I, am the LORD; and beside Me there is no saviour. (43:12) I have declared, and I have saved, and I have announced, and there was no strange god among you; therefore ye are My witnesses, saith the LORD, and I am God. ([JPS] Jewish Publication Society OT)
 
 * Isaiah 44:6 Thus saith the LORD, the King of Israel, and his Redeemer the LORD of hosts: I am the first, and I am the last, and beside Me there is no God. ([JPS] Jewish Publication Society OT)
@@ -159,7 +157,7 @@ Award-winning, accessible commentaries by today's top scholars.
 * Amos 3:7 For the Lord GOD will do nothing, but He revealeth His counsel unto His servants the prophets. ([JPS] Jewish Publication Society OT)  
   
 * Malachi 3-19 (4:1) For, behold, the day cometh, it burneth as a furnace; and all the proud, and all that work wickedness, shall be stubble; and the day that cometh shall set them ablaze, saith the LORD of hosts, that it shall leave them neither root nor branch. Malachi 3-20 (4:2) But unto you that fear My name shall the sun of righteousness arise with healing in its wings; and ye shall go forth, and gambol as calves of the stall. Malachi 3-21 (4:3)  And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I do make, saith the LORD of hosts. Malachi 3-22 (4:4) Remember ye the law of Moses My servant, which I commanded unto him in Horeb for all Israel, even statutes and ordinances. Malachi 3-23 (4:5) Behold, I will send you Elijah the prophet before the coming of the great and terrible day of the LORD. Malachi 3-24 (4:6) And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers; lest I come and smite the land with utter destruction. ([JPS] Jewish Publication Society OT)
-
+  
 * Jeremiah 30:9 But they shall serve the LORD their God, and David their king, whom I will raise up unto them. ([JPS] Jewish Publication Society OT)
 
 * Hosea 3:5 afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall come trembling unto the LORD and to His goodness in the end of days. ([JPS] Jewish Publication Society OT)
@@ -204,7 +202,11 @@ Award-winning, accessible commentaries by today's top scholars.
 
 <b>
 
-* Amos 9:11 In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof, and I will raise up his ruins, and I will build it as in the days of old; ([JPS] Jewish Publication Society OT) </b>  
+* Amos 9:11 In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof, and I will raise up his ruins, and I will build it as in the days of old; ([JPS] Jewish Publication Society OT)
+
+* Zechariah 12:6 In that day will I make the chiefs of Judah like a pan of fire among the wood, and like a torch of fire among sheaves; and they shall devour all the peoples round about, on the right hand and on the left; and Jerusalem shall be inhabited again in her own place, even in Jerusalem. 12:7 The LORD also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem be not magnified above Judah. 12:8 In that day shall the LORD defend the inhabitants of Jerusalem; and he that stumbleth among them at that day shall be as David; and the house of David shall be as a godlike being, as the angel of the LORD before them. Zechariah 12:9 And it shall come to pass in that day, that I will seek to destroy all the nations that come against Jerusalem. ([JPS] Jewish Publication Society OT)
+  
+</b>  
   
 <img src="https://user-images.githubusercontent.com/12058974/153905934-ff2943bb-2314-402f-b24b-15e2e5cc29fc.jpg" alt="CityOfDavidIsrael" style="max-width: 100%;">
   
