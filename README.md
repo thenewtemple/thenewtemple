@@ -1,5 +1,9 @@
 **************************************************************************************************************
+
 <b>* The Jewish Publication Society (JPS) </b>
+
+https://jps.org/
+
 **************************************************************************************************************
 
 <!--
@@ -36,8 +40,6 @@ Here are some ideas to get you started:
 * Isaiah 40:1 Comfort ye, comfort ye My people, saith your God. ([JPS] Jewish Publication Society OT)    
   
 </b>
-
-https://jps.org/
 
 **************************************************************************************************************
 <b>* The “People of the Book” </b>
